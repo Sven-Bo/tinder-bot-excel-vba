@@ -4,8 +4,8 @@
 In this video, I'm going to show you how to create a Tinder bot using Excel & VBA. In particular, we will be using the Selenium Type Library for VBA. I'm going to show you an amazing strategy to make your online dating process so much easier. Just sit back and let EXCEL do the swiping for you. It's so easy to use and you can automate your tinder process from start to finish. No more manually swiping for hours and hours.
 
 ## Resources
-► Download VBA Selenium: https://github.com/florentbr/SeleniumBasic/releases/tag/v2.0.9.0
-► Download Chrome Driver: https://chromedriver.chromium.org/downloads
+- Download VBA Selenium: https://github.com/florentbr/SeleniumBasic/releases/tag/v2.0.9.0
+- Download Chrome Driver: https://chromedriver.chromium.org/downloads
 
 
 ## Video
